@@ -29,11 +29,12 @@ body{
       color: white;
       background-color: red;
 }
+
 @media screen and (max-width: 580px) {
   #scoreText{
       font-family: "Permanent Marker", cursive;
       font-size: 70px;
-      color: greenyellow;
-       text-align: center;
+      color: rgb(153, 211, 66);
+      text-align: center;
 }
 }
